@@ -8,11 +8,15 @@ The code features two hard-coded users. The first is a standard
 user / customer. The second is an admin user.
 
 *User 1 Log-in
+
 -username: user1
+
 -password: password
 
 *User 2 Log-in
+
 -username: user2
+
 -password: password
 
 Any attempts to log-in to an account other than these two will
